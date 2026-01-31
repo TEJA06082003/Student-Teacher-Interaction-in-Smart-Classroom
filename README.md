@@ -1,9 +1,9 @@
 # Smart Classroom API
 
-This repository is the backend REST API for the [Smart Classroom](https://github.com/peterpogorski/smartclassandroid) mobile application.
+This repository is the backend REST API for the [Smart Classroom](https://github.com/peterpogorski/smartclassandroid) .
 
 
-Smart Classroom improves classroom interactions between students and teachers by transitioning mobile devices from a distraction to an educational asset. Smart Classroom optimizes class time by significantly reducing the amount of time required for students and teachers to coordinate classroom participation. This refers to tedious tasks such as manually prompting individual students for attendance, physically handing out quizzes during the lecture, and having to weeks just to see simple quiz results.
+Smart Classroom improves classroom interactions between students and teachers by transitioning  from a distraction to an educational asset. Smart Classroom optimizes class time by significantly reducing the amount of time required for students and teachers to coordinate classroom participation. This refers to tedious tasks such as manually prompting individual students for attendance, physically handing out quizzes during the lecture, and having to weeks just to see simple quiz results.
 
 
 Many students today are interacting with their mobile devices for hours each day while in the classroom. When students use their devices in the classroom, it distracts them from learning and makes it more difficult for teachers to teach. By introducing Smart Classroom to schools, students will be encouraged to bring their mobile devices to classroom lectures so that they can actively participate in class using a familiar medium. Additionally, teachers will have an easier time interacting with the class as they will also be actively using their mobile devices throughout their lectures. Smart Classroom actively provides the first step to modernizing the classroom by creating educational value on mediums that have previously been classified as distractions.
